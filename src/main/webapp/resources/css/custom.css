@@ -1,0 +1,62 @@
+/*--------------------------------------------------------------
+
+Template Name: Freak Ecommerce Responsive Bootstrap Template
+Template URI: http://bootexperts.com
+Description: This is html5 template
+Author: BootExperts
+Author URI: http://bootexperts.com
+Version: 1.0
+
+Note: This is the file where you can add your custom styles to change the look of the theme. But don't modify "style.css" file.
+
+---------------------------------------------------------------*/
+
+/* ----------------------------------------------------
+	You can put your custom css code here: 
+-------------------------------------------------------*/
+.MessageBox {
+	margin-top: -20px;
+}
+
+.board {
+	width: 100%;
+	text-align: center;
+	border: hidden;
+	border-top: 1px solid;
+	border-bottom: 0.5px solid;
+}
+
+.board>thead tr th {
+	text-align: center;
+	background-color: #f8f8f8;
+}
+
+.board>thead tr th {
+	text-align: center;
+	height: 40px;
+}
+
+.board>tbody tr td {
+	height: 30px;
+}
+
+#step_shopping {
+	text-align: center;
+}
+
+.notice {
+	margin-top: 100px;
+	margin-bottom: 80px;
+}
+
+#orderList-table > thead tr th{
+	text-align: center;
+}
+
+#orderList-table > tbody tr td{
+	text-align: center;
+}
+
+
+@media ( max-width :768px) {
+}
